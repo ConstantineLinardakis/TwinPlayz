@@ -99,7 +99,7 @@ header > p {
  .image {
      box-shadow: 0 0 200px rgba(0,0,0,0.9) inset;
      background: url("../assets/backg.png") no-repeat center;
-     background-color: #03e8fc;
+     background-color: #0842B6;
 }
  .vignette {
      background: -webkit-repeating-linear-gradient(top, transparent 0px, transparent 1px, rgba(0, 0, 0, 0.25) 1px, rgba(0, 0, 0, 0.25) 2px);
