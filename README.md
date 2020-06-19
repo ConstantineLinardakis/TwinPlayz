@@ -1,4 +1,8 @@
-# TwinPlayz
-This is for youtube.
+# TwinPlayz Website
+Website for my YouTube channel.
 
-Credits to : qrse.cf <- check his website. Made this pretty much.
+## Credits
+[qrse.cf](https://qrse.cf)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
