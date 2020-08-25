@@ -1,5 +1,5 @@
 # TwinPlayz
-This is for youtube.
+https://constantinelinardakis.github.io/TwinPlayz/
 
 Credits to : qrse.cf <- check his website. Used his concept of the website.
 
